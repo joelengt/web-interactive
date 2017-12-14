@@ -1,7 +1,7 @@
 # web-interactive
 interactive web with custom query and scroll move to
 
-´´´js
+```js
 
 /* get query */
 function getQueryByName(name, url) {
@@ -39,4 +39,4 @@ $( window ).on( "load", function() {
 
 })
 
-´´´
+```
